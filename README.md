@@ -22,7 +22,10 @@ The logo and the typography were converted to footprints using the svg2shenzhen 
 
 This is the end result:
 
-![components]
+![components](https://github.com/eduardocasino/kim-1/raw/main/images/kim-1-comp.png)
+![front](https://github.com/eduardocasino/kim-1/raw/main/images/kim-1-front.png)
+![back](https://github.com/eduardocasino/kim-1/raw/main/images/kim-1-back.png)
+
 
 WARNING: I have not yet sent the board to fabrication, so it is untested!
 
