@@ -8,11 +8,11 @@ The KIM-1 was a single-board computer released in 1976 by MOS Technology, later 
 
 ## About
 
-This recreation has been anexcruciating process using entirely free software: Inkscape, Kicad and Freecad.
+This recreation has been an excruciating process using entirely free software: Inkscape, Kicad and Freecad.
 
-First, a high resolution image of a KIM-1 is used as a template in Inkscape. The image is resized to scale using the IC footprints as a reference. Then, the rest of the footprints are placed and the tracks are traced using bézier curves. I used a layer for each type graphic components (footprints, tracks, copper zones, typography, ...)
+First, a high resolution image of a KIM-1 was used as a template in Inkscape. The image was resized to scale using the IC footprints as a reference. Then, the rest of the footprints were placed and the tracks were traced using bézier curves. I used a layer for each type graphic components (footprints, tracks, copper zones, typography, ...)
 
-The logo was created from the MOS logo and adding the commodore name with the [Eurostile Extended 2 Bold font](https://fontsgeek.com/fonts/eurostile-extended-2-bold).
+The logo was created from the MOS logo, adding the commodore name with the [Eurostile Extended 2 Bold font](https://fontsgeek.com/fonts/eurostile-extended-2-bold).
 
 Component references where placed with the [Futura STD Bold font](https://fontsgeek.com/fonts/Futura-Std-Bold). The [Arial-like Aria font](https://fontsgeek.com/aria_1-font) was used for other typography.
 
