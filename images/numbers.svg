@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210.0mm"
+   height="270.0mm"
+   viewBox="0 0 210.0 270.0"
+   version="1.1"
+   id="svg3459"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="numbers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3461"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5247522"
+     inkscape:cx="404.19809"
+     inkscape:cy="530.15105"
+     inkscape:window-width="1280"
+     inkscape:window-height="730"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1188" />
+  <defs
+     id="defs3456">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47373">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="189.79245"
+         y="75.43103"
+         id="text47371"><tspan
+           sodipodi:role="line"
+           id="tspan47369"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="189.79245"
+           y="75.43103">0</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47373"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47373"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47385">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.30994"
+         y="74.97773"
+         id="text47383"><tspan
+           sodipodi:role="line"
+           id="tspan47381"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.30994"
+           y="74.97773">1</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47385"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47385"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47397">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="198.37912"
+         y="75.959946"
+         id="text47395"><tspan
+           sodipodi:role="line"
+           id="tspan47393"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="198.37912"
+           y="75.959946">2</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47397"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47397"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask47403">
+      <path
+         id="mask-powermask-path-effect47409_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 188.55315,77.312393 h 4.76 v 5.340618 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="189.91336"
+         y="81.338745"
+         id="text47407"><tspan
+           sodipodi:role="line"
+           id="tspan47405"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="189.91336"
+           y="81.338745">3</tspan></text>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47421">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.7309"
+         y="81.385513"
+         id="text47419"><tspan
+           sodipodi:role="line"
+           id="tspan47417"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.7309"
+           y="81.385513">4</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47421"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47421"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask47427">
+      <path
+         id="mask-powermask-path-effect47433_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 198.32852,77.359161 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="199.68872"
+         y="81.385513"
+         id="text47431"><tspan
+           sodipodi:role="line"
+           id="tspan47429"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="199.68872"
+           y="81.385513">5</tspan></text>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47445">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="188.97792"
+         y="86.577225"
+         id="text47443"><tspan
+           sodipodi:role="line"
+           id="tspan47441"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="188.97792"
+           y="86.577225">6</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47445"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47445"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47457">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.918"
+         y="87.886848"
+         id="text47455"><tspan
+           sodipodi:role="line"
+           id="tspan47453"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.918"
+           y="87.886848">7</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47457"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47457"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47469">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="201.27899"
+         y="87.044945"
+         id="text47467"><tspan
+           sodipodi:role="line"
+           id="tspan47465"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="201.27899"
+           y="87.044945">8</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47469"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47469"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47481">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.63734"
+         y="92.47052"
+         id="text47479"><tspan
+           sodipodi:role="line"
+           id="tspan47477"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.63734"
+           y="92.47052">9</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47481"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47481"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47373-3">
+      <path
+         id="mask-powermask-path-effect47373_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 188.43224,71.404678 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="189.79245"
+         y="75.43103"
+         id="text47371-5"><tspan
+           sodipodi:role="line"
+           id="tspan47369-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="189.79245"
+           y="75.43103">0</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47373-9"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47373-9"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47385-0">
+      <path
+         id="mask-powermask-path-effect47385-0_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 192.94972,70.951377 h 4.76 v 5.340619 h -4.76 z" />
+      <path
+         id="mask-powermask-path-effect47385_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 192.94972,70.951377 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.30994"
+         y="74.97773"
+         id="text47383-5"><tspan
+           sodipodi:role="line"
+           id="tspan47381-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.30994"
+           y="74.97773">1</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47385-0"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47385-0"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47397-6">
+      <path
+         id="mask-powermask-path-effect47397_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 197.01891,71.933593 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="198.37912"
+         y="75.959946"
+         id="text47395-1"><tspan
+           sodipodi:role="line"
+           id="tspan47393-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="198.37912"
+           y="75.959946">2</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47397-4"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47397-4"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask47403-0">
+      <path
+         id="mask-powermask-path-effect47409_box-4"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 188.55315,77.312393 h 4.76 v 5.340618 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="189.91336"
+         y="81.338745"
+         id="text47407-2"><tspan
+           sodipodi:role="line"
+           id="tspan47405-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="189.91336"
+           y="81.338745">3</tspan></text>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47421-1">
+      <path
+         id="mask-powermask-path-effect47421_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.37068,77.359161 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.7309"
+         y="81.385513"
+         id="text47419-2"><tspan
+           sodipodi:role="line"
+           id="tspan47417-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.7309"
+           y="81.385513">4</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47421-5"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47421-5"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask47427-4">
+      <path
+         id="mask-powermask-path-effect47433_box-3"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 198.32852,77.359161 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="199.68872"
+         y="81.385513"
+         id="text47431-2"><tspan
+           sodipodi:role="line"
+           id="tspan47429-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="199.68872"
+           y="81.385513">5</tspan></text>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47445-0">
+      <path
+         id="mask-powermask-path-effect47445_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 187.61771,82.550872 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="188.97792"
+         y="86.577225"
+         id="text47443-1"><tspan
+           sodipodi:role="line"
+           id="tspan47441-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="188.97792"
+           y="86.577225">6</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47445-1"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47445-1"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47457-1">
+      <path
+         id="mask-powermask-path-effect47457_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.55777,83.860496 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.918"
+         y="87.886848"
+         id="text47455-6"><tspan
+           sodipodi:role="line"
+           id="tspan47453-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.918"
+           y="87.886848">7</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47457-2"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47457-2"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47469-6">
+      <path
+         id="mask-powermask-path-effect47469_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 199.91878,83.018592 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="201.27899"
+         y="87.044945"
+         id="text47467-0"><tspan
+           sodipodi:role="line"
+           id="tspan47465-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="201.27899"
+           y="87.044945">8</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47469-3"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47469-3"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47481-3">
+      <path
+         id="mask-powermask-path-effect47481_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.27713,88.444168 h 4.76 v 5.340618 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.63734"
+         y="92.47052"
+         id="text47479-6"><tspan
+           sodipodi:role="line"
+           id="tspan47477-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.63734"
+           y="92.47052">9</tspan></text>
+    </mask>
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect47481-4"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect47481-4"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <filter
+       id="mask-powermask-path-effect47373_inverse"
+       inkscape:label="filtermask-powermask-path-effect47373"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47373_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47373_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect47385_inverse"
+       inkscape:label="filtermask-powermask-path-effect47385"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47385_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47385_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect47397_inverse"
+       inkscape:label="filtermask-powermask-path-effect47397"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47397_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47397_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect47421_inverse"
+       inkscape:label="filtermask-powermask-path-effect47421"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47421_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47421_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect47445_inverse"
+       inkscape:label="filtermask-powermask-path-effect47445"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47445_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47445_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect47457_inverse"
+       inkscape:label="filtermask-powermask-path-effect47457"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47457_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47457_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect47469_inverse"
+       inkscape:label="filtermask-powermask-path-effect47469"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47469_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47469_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect47481_inverse"
+       inkscape:label="filtermask-powermask-path-effect47481"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47481_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47481_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47373-9">
+      <path
+         id="mask-powermask-path-effect47373-9_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 188.43224,71.404678 h 4.76 v 5.340619 h -4.76 z" />
+      <path
+         id="path1467"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 188.43224,71.404678 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="189.79245"
+         y="75.43103"
+         id="text1471"><tspan
+           sodipodi:role="line"
+           id="tspan1469"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="189.79245"
+           y="75.43103">0</tspan></text>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect47373-9_inverse"
+       inkscape:label="filtermask-powermask-path-effect47373-9"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47373-9_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47373-9_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       id="mask-powermask-path-effect47385-0_inverse"
+       inkscape:label="filtermask-powermask-path-effect47385-0"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47385-0_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47385-0_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47397-4">
+      <path
+         id="mask-powermask-path-effect47397-4_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 197.01891,71.933593 h 4.76 v 5.340619 h -4.76 z" />
+      <path
+         id="path1483"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 197.01891,71.933593 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="198.37912"
+         y="75.959946"
+         id="text1487"><tspan
+           sodipodi:role="line"
+           id="tspan1485"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="198.37912"
+           y="75.959946">2</tspan></text>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect47397-4_inverse"
+       inkscape:label="filtermask-powermask-path-effect47397-4"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47397-4_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47397-4_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47421-5">
+      <path
+         id="mask-powermask-path-effect47421-5_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.37068,77.359161 h 4.76 v 5.340619 h -4.76 z" />
+      <path
+         id="path1495"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.37068,77.359161 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.7309"
+         y="81.385513"
+         id="text1499"><tspan
+           sodipodi:role="line"
+           id="tspan1497"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.7309"
+           y="81.385513">4</tspan></text>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect47421-5_inverse"
+       inkscape:label="filtermask-powermask-path-effect47421-5"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47421-5_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47421-5_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47445-1">
+      <path
+         id="mask-powermask-path-effect47445-1_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 187.61771,82.550872 h 4.76 v 5.340619 h -4.76 z" />
+      <path
+         id="path1507"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 187.61771,82.550872 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="188.97792"
+         y="86.577225"
+         id="text1511"><tspan
+           sodipodi:role="line"
+           id="tspan1509"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="188.97792"
+           y="86.577225">6</tspan></text>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect47445-1_inverse"
+       inkscape:label="filtermask-powermask-path-effect47445-1"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47445-1_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47445-1_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47457-2">
+      <path
+         id="mask-powermask-path-effect47457-2_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.55777,83.860496 h 4.76 v 5.340619 h -4.76 z" />
+      <path
+         id="path1519"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.55777,83.860496 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.918"
+         y="87.886848"
+         id="text1523"><tspan
+           sodipodi:role="line"
+           id="tspan1521"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.918"
+           y="87.886848">7</tspan></text>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect47457-2_inverse"
+       inkscape:label="filtermask-powermask-path-effect47457-2"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47457-2_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47457-2_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47469-3">
+      <path
+         id="mask-powermask-path-effect47469-3_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 199.91878,83.018592 h 4.76 v 5.340619 h -4.76 z" />
+      <path
+         id="path1531"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 199.91878,83.018592 h 4.76 v 5.340619 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="201.27899"
+         y="87.044945"
+         id="text1535"><tspan
+           sodipodi:role="line"
+           id="tspan1533"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="201.27899"
+           y="87.044945">8</tspan></text>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect47469-3_inverse"
+       inkscape:label="filtermask-powermask-path-effect47469-3"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47469-3_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47469-3_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect47481-4">
+      <path
+         id="mask-powermask-path-effect47481-4_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.27713,88.444168 h 4.76 v 5.340618 h -4.76 z" />
+      <path
+         id="path1543"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 193.27713,88.444168 h 4.76 v 5.340618 h -4.76 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="194.63734"
+         y="92.47052"
+         id="text1547"><tspan
+           sodipodi:role="line"
+           id="tspan1545"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="194.63734"
+           y="92.47052">9</tspan></text>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect47481-4_inverse"
+       inkscape:label="filtermask-powermask-path-effect47481-4"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect47481-4_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect47481-4_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g1186">
+    <rect
+       x="0"
+       y="0"
+       width="210.0"
+       height="270.0"
+       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       id="rect1184" />
+  </g>
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g1188">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959"
+       width="2.759999"
+       height="3.3406177"
+       x="189.43224"
+       y="72.404678"
+       sodipodi:type="rect"
+       mask="url(#mask-powermask-path-effect47373-9)"
+       inkscape:path-effect="#path-effect47373-9"
+       transform="translate(-96.686447,57.055955)"
+       d="m 189.43224,72.404678 h 2.75999 v 3.340618 h -2.75999 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-6"
+       width="2.759999"
+       height="3.3406177"
+       x="193.94972"
+       y="71.951378"
+       sodipodi:type="rect"
+       mask="url(#mask-powermask-path-effect47385-0)"
+       inkscape:path-effect="#path-effect47385-0"
+       transform="translate(-97.91477,57.509255)"
+       d="m 193.94972,71.951378 h 2.76 v 3.340618 h -2.76 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-5"
+       width="2.759999"
+       height="3.3406177"
+       x="198.01891"
+       y="72.933594"
+       sodipodi:type="rect"
+       mask="url(#mask-powermask-path-effect47397-4)"
+       inkscape:path-effect="#path-effect47397-4"
+       transform="translate(-98.694793,56.52704)"
+       d="m 198.01891,72.933594 h 2.75999 v 3.340617 h -2.75999 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-7"
+       width="2.759999"
+       height="3.3406177"
+       x="189.55315"
+       y="78.312393"
+       sodipodi:type="rect"
+       mask="url(#mask47403-0)"
+       transform="translate(-86.939876,51.14824)"
+       d="m 189.55315,78.312393 h 2.76 v 3.340618 h -2.76 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-2"
+       width="2.759999"
+       height="3.3406177"
+       x="194.37068"
+       y="78.359161"
+       sodipodi:type="rect"
+       mask="url(#mask-powermask-path-effect47421-5)"
+       inkscape:path-effect="#path-effect47421-5"
+       transform="translate(-88.468249,51.101472)"
+       d="m 194.37068,78.359161 h 2.76 v 3.340618 h -2.76 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-4"
+       width="2.759999"
+       height="3.3406177"
+       x="199.32852"
+       y="78.359161"
+       sodipodi:type="rect"
+       mask="url(#mask47427-4)"
+       transform="translate(-106.58275,56.029587)"
+       d="m 199.32852,78.359161 h 2.76 v 3.340618 h -2.76 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-3"
+       width="2.759999"
+       height="3.3406177"
+       x="188.61771"
+       y="83.550873"
+       sodipodi:type="rect"
+       mask="url(#mask-powermask-path-effect47445-1)"
+       inkscape:path-effect="#path-effect47445-1"
+       transform="translate(-92.58276,50.837876)"
+       d="m 188.61771,83.550873 h 2.76 v 3.340617 h -2.76 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-51"
+       width="2.759999"
+       height="3.3406177"
+       x="194.55777"
+       y="84.860497"
+       sodipodi:type="rect"
+       mask="url(#mask-powermask-path-effect47457-2)"
+       inkscape:path-effect="#path-effect47457-2"
+       transform="translate(-95.233663,49.528252)"
+       d="m 194.55777,84.860497 h 2.76 v 3.340617 h -2.76 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-0"
+       width="2.759999"
+       height="3.3406177"
+       x="200.91878"
+       y="84.018593"
+       sodipodi:type="rect"
+       mask="url(#mask-powermask-path-effect47469-3)"
+       inkscape:path-effect="#path-effect47469-3"
+       transform="translate(-98.305506,50.370156)"
+       d="m 200.91878,84.018593 h 2.76 v 3.340617 h -2.76 z" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect18959-00"
+       width="2.759999"
+       height="3.3406177"
+       x="194.27713"
+       y="89.444168"
+       sodipodi:type="rect"
+       mask="url(#mask-powermask-path-effect47481-4)"
+       inkscape:path-effect="#path-effect47481-4"
+       transform="translate(-88.374699,44.944581)"
+       d="m 194.27713,89.444168 h 2.76 v 3.340618 h -2.76 z" />
+  </g>
+</svg>
