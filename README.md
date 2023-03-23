@@ -37,7 +37,9 @@ This is a personal project that I am sharing in case it is of interest to any re
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
-See the license.md file for details.
+EXCEPTION: The electrical schematic and all the associated symbols are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+See the LICENSE.md file for details.
 
 ## Acknowledgements
 
