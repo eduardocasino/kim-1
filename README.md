@@ -29,6 +29,7 @@ This is the end result:
 
 WARNING: I have not yet sent the board to fabrication, so it is untested!
 
+## 
 ## Licensing
 
 This is a personal project that I am sharing in case it is of interest to any retrocomputing enthusiast and all the information in this repository is provided "as is", without warranty of any kind.  
@@ -41,9 +42,14 @@ EXCEPTION: The electrical schematic and all the associated symbols are licensed 
 
 See the LICENSE.md file for details.
 
+## Changelog
+#### 23/05/2023
+* Fix position of mounting holes
+
 ## Acknowledgements
 
 * Hans Otten and his [Retro Computing blog](http://retro.hansotten.nl/). Tons of information and high resolution pictures of various KIM-1
 * Chuck Hutkins, for his [hi-res scans of an unpopulated Rev. D PCB](http://retro.hansotten.nl/6502-sbc/kim-1-manuals-and-software/kim-1-revisions/)
 * Budi Prakosa "badgeek" for the [svg2shenzhen](https://github.com/badgeek/svg2shenzhen) plugin for Inkscape
 * Ralf (User ralf02 from forum64.de) for info on actual dimensions of a KIM-1 and ideas from [his thread on a KIM-1 clone](https://www.forum64.de/index.php?thread/124855-instandsetzung-und-nachbau-eines-kim-1/).
+* Armin Hierstetter (https://www.apple-1-replica.com/) for measurements of the mounting holes 
