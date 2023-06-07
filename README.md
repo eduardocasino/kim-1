@@ -46,7 +46,7 @@ See the LICENSE.md file for details.
 #### 23/05/2023
 * Fix position of mounting holes
 
-#### 23/05/2023
+#### 07/06/2023
 * "Fix tracks that weren't correctly imported from SVG
 * Bump date stamp to week 2323
 * Add interactive BOM
