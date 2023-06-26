@@ -27,7 +27,7 @@ This is the end result:
 ![back](https://github.com/eduardocasino/kim-1/raw/main/images/kim-1-back.png)
 
 
-WARNING: I have not yet sent the board to fabrication, so it is untested!
+~~WARNING: I have not yet sent the board to fabrication, so it is untested!~~
 
 ## 
 ## Licensing
