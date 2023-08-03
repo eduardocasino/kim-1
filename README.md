@@ -29,7 +29,7 @@ This is the end result:
 
 ~~WARNING: I have not yet sent the board to fabrication, so it is untested!~~
 
-The replica has been successfully built and tested (except for the cassette interface). Here is a picture of the KIM-1 working with [my dual 6530-6532 adapter](https://github.com/eduardocasino/kim-1-dual-6532-adapter):
+The replica has been successfully built and tested (except for the cassette interface). Here is a picture of the KIM-1 working with [my dual 6530-6532 adapter](https://github.com/eduardocasino/kim-1-dual-6532-adapter) and [my work-in-progress kim-1 keypad](https://github.com/eduardocasino/kim-1-keypad):
 
 ![KIM-1 replica working](https://github.com/eduardocasino/kim-1/raw/main/images/my_kim_1_rev_d.jpg)
 
