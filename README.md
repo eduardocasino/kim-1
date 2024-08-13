@@ -58,7 +58,7 @@ See the LICENSE.md file for details.
 ## Acknowledgements
 
 * Hans Otten and his [Retro Computing blog](http://retro.hansotten.nl/). Tons of information and high resolution pictures of various KIM-1
-* Chuck Hutkins, for his [hi-res scans of an unpopulated Rev. D PCB](http://retro.hansotten.nl/6502-sbc/kim-1-manuals-and-software/kim-1-revisions/)
+* Chuck Hutchins, for his [hi-res scans of an unpopulated Rev. D PCB](http://retro.hansotten.nl/6502-sbc/kim-1-manuals-and-software/kim-1-revisions/)
 * Budi Prakosa "badgeek" for the [svg2shenzhen](https://github.com/badgeek/svg2shenzhen) plugin for Inkscape
 * qu1ck for his [interactive HTML BOM plugin](https://github.com/openscopeproject/InteractiveHtmlBom)
 * Ralf (User ralf02 from forum64.de) for info on actual dimensions of a KIM-1 and ideas from [his thread on a KIM-1 clone](https://www.forum64.de/index.php?thread/124855-instandsetzung-und-nachbau-eines-kim-1/).
