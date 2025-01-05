@@ -26,14 +26,14 @@ This is the end result:
 ![front](https://github.com/eduardocasino/kim-1/raw/main/images/kim-1-front.png)
 ![back](https://github.com/eduardocasino/kim-1/raw/main/images/kim-1-back.png)
 
-
-~~WARNING: I have not yet sent the board to fabrication, so it is untested!~~
-
-The replica has been successfully built and tested (except for the cassette interface). Here is a picture of the KIM-1 working with [my dual 6530-6532 adapter](https://github.com/eduardocasino/kim-1-dual-6532-adapter) and [my work-in-progress kim-1 keypad](https://github.com/eduardocasino/kim-1-keypad):
+The replica has been successfully built and tested. Here is a picture of the KIM-1 working with [my dual 6530-6532 adapter](https://github.com/eduardocasino/kim-1-dual-6532-adapter) and [my work-in-progress kim-1 keypad](https://github.com/eduardocasino/kim-1-keypad):
 
 ![KIM-1 replica working](https://github.com/eduardocasino/kim-1/raw/main/images/my_kim_1_rev_d.jpg)
 
-## 
+## Building
+
+[Paul Sajna](https://github.com/sajattack) has created an [Octopart BOM](https://octopart.com/bom-tool/09w2sZzv), with direct distributor links, to ease the sourcing of the components. Take into account that there are some obsolete parts that are no longer available, so you'll have to look on eBay or Aliexpress for them. Just be careful with counterfeits!
+
 ## Licensing
 
 This is a personal project that I am sharing in case it is of interest to any retrocomputing enthusiast and all the information in this repository is provided "as is", without warranty of any kind.  
@@ -47,11 +47,14 @@ EXCEPTION: The electrical schematic and all the associated symbols are licensed 
 See the LICENSE.md file for details.
 
 ## Changelog
+
 #### 23/05/2023
+
 * Fix position of mounting holes
 
 #### 07/06/2023
-* "Fix tracks that weren't correctly imported from SVG
+
+* Fix tracks that weren't correctly imported from SVG
 * Bump date stamp to week 2323
 * Add interactive BOM
 
@@ -62,4 +65,5 @@ See the LICENSE.md file for details.
 * Budi Prakosa "badgeek" for the [svg2shenzhen](https://github.com/badgeek/svg2shenzhen) plugin for Inkscape
 * qu1ck for his [interactive HTML BOM plugin](https://github.com/openscopeproject/InteractiveHtmlBom)
 * Ralf (User ralf02 from forum64.de) for info on actual dimensions of a KIM-1 and ideas from [his thread on a KIM-1 clone](https://www.forum64.de/index.php?thread/124855-instandsetzung-und-nachbau-eines-kim-1/).
-* Armin Hierstetter (https://www.apple-1-replica.com/) for measurements of the mounting holes 
+* [Armin Hierstetter](https://www.apple-1-replica.com/) for measurements of the mounting holes 
+* [Paul Sajna](https://github.com/sajattack), for the Octopart BOM.
